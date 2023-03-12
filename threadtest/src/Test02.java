@@ -7,6 +7,7 @@ class MyCallnable implements Callable{
     @Override
     public Object call() throws Exception {
         System.out.println("**********");
+        System.out.println("**********");
         return null;
     }
 }
